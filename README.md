@@ -20,8 +20,12 @@ If you think that my work deserves a donation:
 
 [![Donate](https://www.paypalobjects.com/en_US/ES/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=H2CQS6ZAFUT9Q&source=url)
 
+[Donate](https://sbesada.github.io/C%C3%B3digo%20QR.png)
+
+
+
 
 
 ### Contact
 
-email:sergio.besada@gmail.com
+sergio.besada@gmail.com
