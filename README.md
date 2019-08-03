@@ -3,6 +3,7 @@
 ## Sergio Besada
 
 [![Linkedin](LinkedinIcon.png)](https://www.linkedin.com/in/sergiobesada/) Software engineer
+[<img src="LinkedinIcon.png">](https://www.linkedin.com/in/sergiobesada/) Software engineer
 
 
 
