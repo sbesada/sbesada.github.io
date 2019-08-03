@@ -2,7 +2,9 @@
 
 ## Sergio Besada
 
-![https://www.linkedin.com/in/sergiobesada/](LinkedinIcon.png) Software engineer
+[![Linkedin](LinkedinIcon.png)](https://www.linkedin.com/in/sergiobesada/) Software engineer
+
+
 
 ### Projects
  - [pymep](https://pypi.org/project/pymep/)
