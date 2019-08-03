@@ -2,34 +2,17 @@
 
 ## Sergio Besada
 
-page under construction
+Software engineer
 
 ### Projects
-
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Donate](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=H2CQS6ZAFUT9Q&source=url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+ - [pymep](https://pypi.org/project/pymep/)
+ - https://github.com/sbesada/java.math.expression.parser
+ - https://github.com/sbesada/largeNumbersRootCalculation
+ - https://github.com/sbesada/MathLibrary
+ - https://github.com/sbesada/java.deepclone
+ 
+ **All mathematical projects are tested using Matlab/Octave**
+ 
 
 ### Donate
 
