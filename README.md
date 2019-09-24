@@ -9,7 +9,7 @@
 ### Projects
  - [pymep](https://pypi.org/project/pymep/)
  - [java math expression parser](https://github.com/sbesada/java.math.expression.parser)
- - [large numbers root calculator](https://github.com/sbesada/largeNumbersRootCalculation)
+ - [java nth root calculator](https://github.com/sbesada/largeNumbersRootCalculation)
  - [math library](https://github.com/sbesada/MathLibrary)
  - [java deepclone](https://github.com/sbesada/java.deepclone)
  
