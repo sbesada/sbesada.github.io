@@ -10,7 +10,7 @@
  - [pymep](https://pypi.org/project/pymep/)
  - [java math expression parser](https://github.com/sbesada/java.math.expression.parser)
  - [java nth root calculator](https://github.com/sbesada/java.nth.root.calculator.git)
- - [math library](https://github.com/sbesada/MathLibrary)
+ - [java numerical library](https://github.com/sbesada/java.math.numerical.library)
  - [java deep clone](https://github.com/sbesada/java.deep.clone)
  
  **All mathematical projects are tested using Matlab/Octave**
