@@ -1,7 +1,7 @@
 
-<!--html_preserve-->
 
 <!-- Global site tag (gtag.js) - Google Analytics -->
+```javascript
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-161575947-1"></script>
 <script>
   window.dataLayer = window.dataLayer || [];
@@ -10,9 +10,8 @@
 
   gtag('config', 'UA-161575947-1');
 </script>
+```
 
-
-<!--/html_preserve-->
 
 
 ## Sergio Besada
