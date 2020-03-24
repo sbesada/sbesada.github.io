@@ -1,19 +1,3 @@
-
-
-<!-- Global site tag (gtag.js) - Google Analytics -->
-```javascript
-<script async src="https://www.googletagmanager.com/gtag/js?id=UA-161575947-1"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'UA-161575947-1');
-</script>
-```
-
-
-
 ## Sergio Besada
 
 [<img src="LinkedinIcon.png">](https://www.linkedin.com/in/sergiobesada/) Software engineer
@@ -44,3 +28,17 @@ If you think that my work deserves a donation:
 ### Contact
 
 sergio.besada@gmail.com
+
+
+
+<!-- Global site tag (gtag.js) - Google Analytics -->
+```javascript
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-161575947-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-161575947-1');
+</script>
+```
