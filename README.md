@@ -10,7 +10,7 @@
  - [java nth root calculator](https://github.com/sbesada/java.nth.root.calculator.git)
  - [java numerical library](https://github.com/sbesada/java.math.numerical.library)
  - [java deep clone](https://github.com/sbesada/java.deep.clone)
- - [online nasa satellite tracking 3d](https://sbesada.github.io/nasa.satellite.tracking.3d/) - [project](https://github.com/sbesada/nasa.satellite.tracking.3d)
+ - [online nasa satellite tracking 3d](https://sbesada.github.io/nasa.satellite.tracking.3d/) - [nasa project](https://github.com/sbesada/nasa.satellite.tracking.3d)
  
  **All mathematical projects are tested using Matlab/Octave**
  
