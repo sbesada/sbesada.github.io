@@ -9,7 +9,7 @@
  - [java math expression parser](https://github.com/sbesada/java.math.expression.parser)
  - [java nth root calculator](https://github.com/sbesada/java.nth.root.calculator.git)
  - [java numerical library](https://github.com/sbesada/java.math.numerical.library)
- - [java deep clone](https://github.com/sbesada/java.deep.clone)
+ - [java deep clone collection](https://github.com/sbesada/java.deep.clone.collection)
  - [online nasa satellite tracker 3d](https://sbesada.github.io/online.nasa.satellite.tracker.3d/) - [nasa project](https://github.com/sbesada/online.nasa.satellite.tracker.3d)
  
  **All mathematical projects are tested using Matlab/Octave**
