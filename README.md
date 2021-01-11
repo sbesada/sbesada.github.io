@@ -3,7 +3,7 @@
 [<img src="LinkedinIcon.png">](https://www.linkedin.com/in/sergiobesada/) Software engineer
 ### Projects
  - [pymep](https://pypi.org/project/pymep/) - [python math expression parser](https://github.com/sbesada/python.math.expression.parser.pymep)
- - [java math expression parser](https://github.com/sbesada/java.math.expression.parser) ~ [![GitHub stars](https://img.shields.io/github/stars/sbesada/java.math.expression.parsery.svg?style=social&label=Star&maxAge=2592000)](https://github.com/sbesada/java.math.expression.parser/stargazers/)
+ - [java math expression parser](https://github.com/sbesada/java.math.expression.parser) ~ [![GitHub stars](https://img.shields.io/github/stars/sbesada/java.math.expression.parser.svg?style=social&label=Star&maxAge=2592000)](https://github.com/sbesada/java.math.expression.parser/stargazers/)
  - [java nth root calculator](https://github.com/sbesada/java.nth.root.calculator.git)
  - [java numerical library](https://github.com/sbesada/java.math.numerical.library) ~ [![GitHub stars](https://img.shields.io/github/stars/sbesada/java.math.numerical.library.svg?style=social&label=Star&maxAge=2592000)](https://github.com/sbesada/java.math.numerical.library/stargazers/)
  - [java deep clone collection](https://github.com/sbesada/java.deep.clone.collection)
