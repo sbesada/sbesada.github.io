@@ -1,6 +1,6 @@
 ## Sergio Besada
 
-[<img src="LinkedinIcon.png">](https://www.linkedin.com/in/sergiobesada/) Software engineer - [![Generic badge](https://img.shields.io/badge/<Stars>-<20>-<GREEN>.svg)](https://shields.io/)
+[<img src="LinkedinIcon.png">](https://www.linkedin.com/in/sergiobesada/) Software engineer - [![Generic badge](https://img.shields.io/badge/Stars-20-<GREEN>.svg)](https://shields.io/)
 
 
 ### Projects
