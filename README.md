@@ -1,6 +1,6 @@
 ## Sergio Besada
 
-[<img src="LinkedinIcon.png">](https://www.linkedin.com/in/sergiobesada/) Software engineer - [![GitHub stars](https://img.shields.io/github/stars/sbesada/java.math.expression.parser.svg?style=social&label=Star&maxAge=2592000)](https://GitHub.com/Naereen/StrapDown.js/stargazers/)
+[<img src="LinkedinIcon.png">](https://www.linkedin.com/in/sergiobesada/) Software engineer - [![GitHub stars](https://img.shields.io/github/stars/sbesada/java.math.expression.parser.svg?style=social&label=Star&maxAge=2592000)](https://github.com/sbesada/java.math.expression.parser/stargazers/)
 
 ### Projects
  - [pymep](https://pypi.org/project/pymep/) - [python math expression parser](https://github.com/sbesada/python.math.expression.parser.pymep)
