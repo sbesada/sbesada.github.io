@@ -1,6 +1,6 @@
 ## Sergio Besada
 
-[<img src="LinkedinIcon.png">](https://www.linkedin.com/in/sergiobesada/) Software engineer - Total Stars {{STARS}}
+[<img src="LinkedinIcon.png">](https://www.linkedin.com/in/sergiobesada/) Software engineer - [![GitHub stars](https://img.shields.io/github/stars/Naereen/StrapDown.js.svg?style=social&label=Star&maxAge=2592000)](https://GitHub.com/Naereen/StrapDown.js/stargazers/)
 
 
 
