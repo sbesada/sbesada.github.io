@@ -5,9 +5,9 @@
  - [pymep](https://pypi.org/project/pymep/) - [python math expression parser](https://github.com/sbesada/python.math.expression.parser.pymep)
  - [java math expression parser](https://github.com/sbesada/java.math.expression.parser) - [![GitHub stars](https://img.shields.io/github/stars/sbesada/java.math.expression.parser.svg?style=social&label=Star&maxAge=2592000)](https://github.com/sbesada/java.math.expression.parser/stargazers/)
  - [java nth root calculator](https://github.com/sbesada/java.nth.root.calculator.git)
- - [java numerical library](https://github.com/sbesada/java.math.numerical.library) - [![GitHub stars2](https://img.shields.io/github/stars/sbesada/java.math.expression.parser.svg?style=social&label=Star&maxAge=2592000)](https://github.com/sbesada/java.math.numerical.library/stargazers/)
+ - [java numerical library](https://github.com/sbesada/java.math.numerical.library) - [![GitHub watchers](https://img.shields.io/github/stars/sbesada/java.math.expression.parser.svg?style=social&label=Star&maxAge=2592000)](https://github.com/sbesada/java.math.numerical.library/stargazers/)
  - [java deep clone collection](https://github.com/sbesada/java.deep.clone.collection)
- - [online nasa satellite tracker 3d](https://sbesada.github.io/online.nasa.satellite.tracker.3d/) - [nasa project](https://github.com/sbesada/online.nasa.satellite.tracker.3d) - [![GitHub stars3](https://img.shields.io/github/stars/sbesada/java.math.expression.parser.svg?style=social&label=Star&maxAge=2592000)](https://sbesada.github.io/online.nasa.satellite.tracker.3d/stargazers/)
+ - [online nasa satellite tracker 3d](https://sbesada.github.io/online.nasa.satellite.tracker.3d/) - [nasa project](https://github.com/sbesada/online.nasa.satellite.tracker.3d) - [![GitHub stars3](https://img.shields.io/github/stars/sbesada/java.math.expression.parser.svg?style=social&label=Star&maxAge=2592000)](https://github.com/sbesada/online.nasa.satellite.tracker.3d/stargazers/)
  
  **All mathematical projects are tested using Matlab/Octave**
  
