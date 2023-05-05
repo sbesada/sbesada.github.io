@@ -31,12 +31,12 @@ sergio.besada@gmail.com
 
 <!-- Global site tag (gtag.js) - Google Analytics -->
 ```javascript
-<script async src="https://www.googletagmanager.com/gtag/js?id=UA-161575947-1"></script>
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-9MQVX5M3GY"></script>
 <script>
   window.dataLayer = window.dataLayer || [];
   function gtag(){dataLayer.push(arguments);}
   gtag('js', new Date());
 
-  gtag('config', 'UA-161575947-1');
+  gtag('config','G-9MQVX5M3GY');
 </script>
 ```
