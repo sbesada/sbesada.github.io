@@ -28,7 +28,6 @@ If you think that my work deserves a donation:
 sergio.besada@gmail.com
 
 
-
 <!-- Global site tag (gtag.js) - Google Analytics -->
 ```javascript
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-9MQVX5M3GY"></script>
